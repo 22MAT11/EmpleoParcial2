@@ -1,5 +1,4 @@
 # Python
-__pycache__/
 *.py[cod]
 *$py.class
 *.so
@@ -9,7 +8,6 @@ build/
 *.egg
 
 # Virtual Environment
-venv/
 env/
 ENV/
 
@@ -21,7 +19,6 @@ ENV/
 *~
 
 # OS
-.DS_Store
 Thumbs.db
 
 # Jupyter
@@ -39,20 +36,3 @@ htmlcov/
 data/datasets/*.csv
 data/datasets/*.xlsx
 data/datasets/*.xls
-venv/
-__pycache__/
-*.pyc
-.DS_Store
-.env
-*.zip
-*.rar
-*.7z
-*.csv
-*.xlsx
-*.db
-*.sqlite
-*.pkl
-*.joblib
-*.mp4
-*.mov
-*.parquet
