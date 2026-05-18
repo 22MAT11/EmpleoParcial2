@@ -96,31 +96,6 @@ EmpleaData/
     └── helpers.py
 ```
 
----
-
-## ⚡ Instalación y Ejecución
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/Salfonsogar/EmpleaData.git
-cd EmpleaData
-
-# Crear entorno virtual
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# venv\Scripts\activate  # Windows
-
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Ejecutar aplicación
-python app.py
-```
-
-La aplicación estará disponible en: **http://127.0.0.1:8050**
-
----
-
 ## 📚 Dependencias
 
 | Paquete | Propósito |
